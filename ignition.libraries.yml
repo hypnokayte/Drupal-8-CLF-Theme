@@ -1,0 +1,12 @@
+global-css:
+  css:
+    theme:
+      css/saltire.css: {}
+      font-awesome/css/font-awesome.min.css: {}
+
+global-js:
+  js:
+    js/script.min.js: {}
+    js/respond.js: {}
+    js/html5shiv.js: {}
+    js/weather.js: {}
